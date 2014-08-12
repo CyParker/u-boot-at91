@@ -95,7 +95,7 @@
 /* board specific(not enough SRAM) */
 #define CONFIG_SAMA5D3_LCD_BASE		0x23E00000
 
-#define CONFIG_BOOTDELAY		3
+#define CONFIG_BOOTDELAY		0
 
 /*
  * BOOTP options
